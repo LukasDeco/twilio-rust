@@ -1,10 +1,14 @@
 [package]
-name = "openapi"
-version = "1.37.3"
-authors = ["support@twilio.com"]
-description = "This is the public Twilio REST API."
+name = "twilio-rust"
+version = "1.0.0"
+authors = ["ldeconantsesznak@gmail.com"]
+description = "This is a twilio API client generated via openAPI and slightly modified"
 license = "Apache 2.0"
-edition = "2018"
+repository = "https://github.com/LukasDeco/twilio-rust"
+homepage = "https://github.com/LukasDeco/twilio-rust"
+readme = "https://github.com/LukasDeco/twilio-rust/blob/main/README.md"
+keywords = ["Twilio"]
+categories = ["api-bindings"]
 
 [dependencies]
 serde = "^1.0"
