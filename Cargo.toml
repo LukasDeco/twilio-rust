@@ -9,6 +9,7 @@ homepage = "https://github.com/LukasDeco/twilio-rust"
 readme = "https://github.com/LukasDeco/twilio-rust/blob/main/README.md"
 keywords = ["Twilio"]
 categories = ["api-bindings"]
+edition = "2021"
 
 [dependencies]
 serde = "^1.0"
