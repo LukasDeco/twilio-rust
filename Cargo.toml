@@ -1,6 +1,6 @@
 [package]
 name = "twilio-openapi"
-version = "1.0.1"
+version = "1.1.0"
 authors = ["ldeconantsesznak@gmail.com"]
 description = "This is a twilio API client generated via openAPI and slightly modified"
 license = "MIT"
