@@ -1,6 +1,6 @@
 # twilio-rust - Rust API client for openapi
 
-Auto-generated OpenAPI rust-based Twilio client
+Auto-generated OpenAPI rust-based Twilio client mixed with some tasty additions like Twiml struct.
 
 This is the public Twilio REST API.
 
